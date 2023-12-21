@@ -39,5 +39,5 @@ Sibaji...
 
 Connect with me:
 - LinkedIn: => https://www.linkedin.com/in/sibajikhillar)
-- Instagram: => (https://www.instagram.com/TheSibaji)
+- Instagram: => (https://www.instagram.com/The_Sibaji)
 - Website: => (https://thesibaji.github.io/Sibaji_Khillar/)
