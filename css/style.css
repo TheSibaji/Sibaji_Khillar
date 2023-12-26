@@ -222,6 +222,10 @@ header {
   background: #31A0F4;
   transition: 0.5s all;
 }
+
+.education .card:hove{
+    zoom:1.2;
+}
 .education h5:hover + .education-border {
   width: 100px;
 }
