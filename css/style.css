@@ -223,7 +223,7 @@ header {
   transition: 0.5s all;
 }
 
-.education .card:hove{
+.education .card-body:hover{
     zoom:1.2;
 }
 .education h5:hover + .education-border {
