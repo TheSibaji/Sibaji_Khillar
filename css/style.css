@@ -223,9 +223,15 @@ header {
   transition: 0.5s all;
 }
 
-.education .card-body:hover{
-    zoom:1.2;
+.card:hover{
+  transform: scale(1.08);
+  transition-duration: 1s;
 }
+.card:not(:hover){
+  transform: scale(1);
+  transition-duration: 1s;
+}
+
 .education h5:hover + .education-border {
   width: 100px;
 }
