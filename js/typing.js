@@ -27,7 +27,7 @@ function typeText(text, index, interval, element, callback) {
   }
 
   // Words to be typed
-  var wordsToType = ["Sibaji Khillar", "Java Developer", "Fronted Developer", "UI/UX Desiner"];
+  var wordsToType = ["Sibaji Khillar", "Java Backend Developer", "Web Developer", "Software Developer"];
 
   // Element to display typing effect
   var typingElement = document.getElementById("typing-text");
