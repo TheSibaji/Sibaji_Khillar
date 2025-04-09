@@ -78,7 +78,7 @@ jQuery(document).ready(function($)
 
   var typed = new Typed(".element", {
     
-    strings: ["Sibaji Khillar","Java Developer","Web Developer","UI/UX Designer","Software Developer"],
+    strings: ["Sibaji Khillar","Java Backend Developer","Web Developer","Software Developer"],
     smartBackspace: true,
     typeSpeed: 100,
     backSpeed: 100,
